@@ -67,7 +67,7 @@ sudo apt install ttf-mscorefonts-installer fonts-crosextra-caladea fonts-crosext
 ## 4. 💻 تثبيت التطبيقات الأساسية
 
 ```bash
-sudo apt install build-essential curl wget gpg git gnome-disk-utility gparted vlc mpv synaptic p7zip-full rar unrar
+sudo apt install build-essential curl wget gpg git gnome-disk-utility gparted vlc mpv neofetch btop synaptic p7zip-full rar unrar
 ```
 
 برامج إضافية عبر Flatpak:
